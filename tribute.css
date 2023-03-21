@@ -1,0 +1,18 @@
+main { 
+  background-color:#E6E6FA;
+  padding: 20px;
+}
+
+#title, p, h3 {
+  text-align: center;
+}
+#img-div {
+  background-color: white;
+  
+}
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+

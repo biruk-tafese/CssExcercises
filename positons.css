@@ -1,0 +1,65 @@
+* {
+  box-sizing: border-box;
+}
+
+.box {
+  display: inline-block;
+  width: 100px;
+  height: 200px;
+  background: red;
+  color: gr;
+}
+
+#two {
+  position: relative;
+  top: 20px;
+  left: 20px;
+  background: black;
+}
+#three {
+  position: relative;
+  top: 20px;
+  left: 20px;
+  background: yellow;
+}
+
+div.c {
+  position: absolute;
+  left: 150px;
+  width: 200px;
+  height: 120px;
+  border: 3px solid green;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+ div.background {
+  width: 500px;
+  margin:0 auto;
+ }
+
+ p {
+   background: aqua;
+   border: 3px solid blue;
+   padding: 10px;
+   margin:10px;
+ }
+
+ span {
+  background: red;
+  border: 1px solid black;
+ }
+
+ #topic {
+     border-width: 20px;
+     border-style: ridge; 
+     border-color: #CC63FF
+   }
+
+    #topic {
+    border-width: 10px;
+    border-style: groove; 
+    border-color: #CC63FF
+   }
